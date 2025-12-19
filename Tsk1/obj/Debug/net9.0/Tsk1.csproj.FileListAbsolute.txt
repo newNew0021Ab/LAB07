@@ -1,0 +1,14 @@
+D:\grsu\REPOS\LAB07\Tsk1\bin\Debug\net9.0\Tsk1.exe
+D:\grsu\REPOS\LAB07\Tsk1\bin\Debug\net9.0\Tsk1.deps.json
+D:\grsu\REPOS\LAB07\Tsk1\bin\Debug\net9.0\Tsk1.runtimeconfig.json
+D:\grsu\REPOS\LAB07\Tsk1\bin\Debug\net9.0\Tsk1.dll
+D:\grsu\REPOS\LAB07\Tsk1\bin\Debug\net9.0\Tsk1.pdb
+D:\grsu\REPOS\LAB07\Tsk1\obj\Debug\net9.0\Tsk1.GeneratedMSBuildEditorConfig.editorconfig
+D:\grsu\REPOS\LAB07\Tsk1\obj\Debug\net9.0\Tsk1.AssemblyInfoInputs.cache
+D:\grsu\REPOS\LAB07\Tsk1\obj\Debug\net9.0\Tsk1.AssemblyInfo.cs
+D:\grsu\REPOS\LAB07\Tsk1\obj\Debug\net9.0\Tsk1.csproj.CoreCompileInputs.cache
+D:\grsu\REPOS\LAB07\Tsk1\obj\Debug\net9.0\Tsk1.dll
+D:\grsu\REPOS\LAB07\Tsk1\obj\Debug\net9.0\refint\Tsk1.dll
+D:\grsu\REPOS\LAB07\Tsk1\obj\Debug\net9.0\Tsk1.pdb
+D:\grsu\REPOS\LAB07\Tsk1\obj\Debug\net9.0\Tsk1.genruntimeconfig.cache
+D:\grsu\REPOS\LAB07\Tsk1\obj\Debug\net9.0\ref\Tsk1.dll
